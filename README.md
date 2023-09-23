@@ -1,2 +1,4 @@
 # [Kaggle Learn Pandas](https://www.kaggle.com/learn/pandas/)
-Solve short hands-on challenges to perfect your data manipulation skills.
+I solved short hands-on challenges to learn the basics of Pandas.
+
+[Certificate of completion](https://www.kaggle.com/learn/certification/shanearceo/pandas)
